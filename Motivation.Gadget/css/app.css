@@ -1,0 +1,23 @@
+body
+{
+    background-color: white;
+    background-image:url(../images/background-3.png);
+    width: 550px;
+    height: 160px;
+}
+
+#author{
+	width:100%;
+	font-size: medium;
+	text-align: right;
+    color:white;
+    font-family:Courier New;
+}
+
+#quote{
+	color:white;
+    font-style: italic;
+    font-size: large;
+}
+
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<gadget>
+  <name>Motivation</name>
+  <version>1.0.0.1</version>
+  <author name="Samurai Kit">
+    <info url="codingtrabla.blogspot.com" />
+  </author>
+  <description>Go! Go! Go!</description>
+  <hosts>
+    <host name="sidebar">
+      <base type="HTML" apiVersion="1.0.0" src="index.html" />
+      <permissions>Full</permissions>
+      <platform minPlatformVersion="1.0" />
+    </host>
+  </hosts>
+</gadget>
