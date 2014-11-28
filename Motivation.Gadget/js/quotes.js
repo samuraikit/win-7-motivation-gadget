@@ -6,6 +6,12 @@ window.quotes = [
     },
 
     {
+        "quote":"Just Do It!",
+        "author":"Nike",
+        "image":"nike.png"
+    },
+
+    {
         "quote":"Go! Go! Go!",
         "author":"Counter Strike",
         "image":"cs.png"
